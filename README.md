@@ -38,11 +38,3 @@ streamlit run chapter-1.py
 
 Try another example by replacing `chapter-1.py` with a different Python filename, such as `chapter-5.py` or `Eg.py`.
 
-## Notes
-
-- Run the scripts from this project folder so relative files such as `image.jpg` and `Housing.csv` can be found.
-- The GitHub-ready copy uses a relative path for the image and includes the required `pandas` import in `Eg.py`.
-
-## License
-
-Add a license before publishing if you would like others to reuse or modify this project.
